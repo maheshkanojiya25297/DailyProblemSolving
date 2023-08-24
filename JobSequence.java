@@ -57,3 +57,4 @@ class Task {
         this.profit = profit;
     }
 }
+
