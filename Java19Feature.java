@@ -1,4 +1,5 @@
 import java.util.HashMap;
+import java.util.Map;
 
 public class Java19Feature {
     public static void main(String[] args) {
@@ -28,5 +29,6 @@ public class Java19Feature {
             case 7:
                 System.out.println("print 7");
         }
-}
+
+        }
 }
